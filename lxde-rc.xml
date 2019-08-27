@@ -399,6 +399,12 @@
         <command>lxterminal</command>
       </action>
     </keybind>
+    <!-- Launch Rofi -->
+    <keybind key="W-D">
+      <action name="Execute">
+        <command>rofi -show run</command>
+      </action>
+    </keybind>
 
     <!-- Window Snapping Behaviour -->
     <keybind key="W-Left">        # HalfLeftScreen
