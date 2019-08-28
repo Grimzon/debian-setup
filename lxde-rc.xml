@@ -329,7 +329,7 @@
       </action>
     </keybind>
     <!-- Keybindings for finding files -->
-    <keybind key="W-f">
+    <keybind key="W-S-f">
       <action name="Execute">
         <command>pcmanfm --find-files</command>
       </action>
@@ -358,7 +358,7 @@
     <keybind key="A-F11">
       <action name="ToggleFullscreen"/>
     </keybind>
-    <keybind key="W-S-F">
+    <keybind key="W-f">
       <action name="ToggleFullscreen"/>
     </keybind>
     <!-- Launch Task Manager with Ctrl+Alt+Del -->
