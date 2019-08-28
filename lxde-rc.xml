@@ -514,6 +514,9 @@
           <menu>client-menu</menu>
         </action>
       </mousebind>
+      <mousebind action="Drag" button="W-A-Left">
+        <action name="Resize"/>
+      </mousebind>
     </context>
     <context name="Top">
       <mousebind button="Left" action="Press">
